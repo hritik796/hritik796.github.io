@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border- box;
+   
+}
+h2{
+    text-align: center;
+    padding: 8px;
+    border-bottom: 2px solid black;
+    
+}
+.container{
+    background-color: yellow;
+    color: black;
+    background : center / cover  no-repeat url(/static/bg9.jpg);
+    height: auto;
+    width: auto;
+    /* opacity: 0.5; */
+}
+p{
+    margin-top: 15px;
+    padding: 20px;
+    /* opacity: 0.8; */
+    /* font-size: large; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ h3{
+    font-size: small;
+    float: left;
+    /* padding: 25px; */
+    padding-left: 30px;
+}
+
